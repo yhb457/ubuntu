@@ -1,0 +1,7 @@
+./channels.go
+./chat.go
+./debug.go
+./input.go
+./message.go
+./mode.go
+./threads.go
